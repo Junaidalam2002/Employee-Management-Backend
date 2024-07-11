@@ -1,0 +1,28 @@
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.csproj.AssemblyReference.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.AssemblyInfoInputs.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.AssemblyInfo.cs
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\bin\Debug\net8.0\DataEntity.deps.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\bin\Debug\net8.0\DataEntity.runtimeconfig.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\bin\Debug\net8.0\DataEntity.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\bin\Debug\net8.0\DataEntity.pdb
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\refint\DataEntity.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.pdb
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.genruntimeconfig.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\ref\DataEntity.dll
+E:\c# Tutorial\eBMR\DataEntity\bin\Debug\net8.0\DataEntity.deps.json
+E:\c# Tutorial\eBMR\DataEntity\bin\Debug\net8.0\DataEntity.runtimeconfig.json
+E:\c# Tutorial\eBMR\DataEntity\bin\Debug\net8.0\DataEntity.dll
+E:\c# Tutorial\eBMR\DataEntity\bin\Debug\net8.0\DataEntity.pdb
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.csproj.AssemblyReference.cache
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.AssemblyInfoInputs.cache
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.AssemblyInfo.cs
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.csproj.CoreCompileInputs.cache
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.dll
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\refint\DataEntity.dll
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.pdb
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\DataEntity.genruntimeconfig.cache
+E:\c# Tutorial\eBMR\DataEntity\obj\Debug\net8.0\ref\DataEntity.dll

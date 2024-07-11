@@ -1,0 +1,30 @@
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\DataEntity.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\DataEntity.pdb
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\ref\Repository.dll
+E:\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\Repository.deps.json
+E:\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\Repository.dll
+E:\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\Repository.pdb
+E:\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\DataEntity.dll
+E:\c# Tutorial\eBMR\Repository\bin\Debug\net8.0\DataEntity.pdb
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.dll
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\refint\Repository.dll
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\Repository.pdb
+E:\c# Tutorial\eBMR\Repository\obj\Debug\net8.0\ref\Repository.dll

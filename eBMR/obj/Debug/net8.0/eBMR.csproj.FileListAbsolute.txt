@@ -1,0 +1,148 @@
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\appsettings.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.exe
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.deps.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.runtimeconfig.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.pdb
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.csproj.AssemblyReference.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.AssemblyInfoInputs.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.AssemblyInfo.cs
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets\msbuild.eBMR.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets\msbuild.build.eBMR.props
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eBMR.props
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eBMR.props
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\scopedcss\bundle\eBMR.styles.css
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.csproj.Up2Date
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\refint\eBMR.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.pdb
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.genruntimeconfig.cache
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\ref\eBMR.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\DataEntity.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Repository.dll
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Repository.pdb
+C:\Users\Mohammad Junaid Alam\Desktop\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\DataEntity.pdb
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\appsettings.Development.json
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\appsettings.json
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.exe
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.deps.json
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.runtimeconfig.json
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\eBMR.pdb
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Azure.Core.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Azure.Identity.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Memory.Data.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\DataEntity.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Repository.dll
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\DataEntity.pdb
+E:\c# Tutorial\eBMR\eBMR\bin\Debug\net8.0\Repository.pdb
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.csproj.AssemblyReference.cache
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.AssemblyInfoInputs.cache
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.AssemblyInfo.cs
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.csproj.CoreCompileInputs.cache
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.MvcApplicationPartsAssemblyInfo.cs
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.MvcApplicationPartsAssemblyInfo.cache
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets.build.json
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets.development.json
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets\msbuild.eBMR.Microsoft.AspNetCore.StaticWebAssets.props
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets\msbuild.build.eBMR.props
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eBMR.props
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eBMR.props
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\staticwebassets.pack.json
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\scopedcss\bundle\eBMR.styles.css
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.csproj.Up2Date
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.dll
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\refint\eBMR.dll
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.pdb
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\eBMR.genruntimeconfig.cache
+E:\c# Tutorial\eBMR\eBMR\obj\Debug\net8.0\ref\eBMR.dll
